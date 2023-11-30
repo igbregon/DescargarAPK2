@@ -1,0 +1,24 @@
+/* styles.css */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#codigoQR {
+    max-width: 80%; 
+    height: auto;
+    padding: 50px;
+    background-color: #fff;
+    padding-left: 40ch;
+}
+
+
+.Titulo{
+    text-align: center;
+    font-weight: 700;
+    font-size: 4ch;
+    
+}
