@@ -5,13 +5,13 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
+    background-size: cover;
+    background-image: url('img/Imagen\ de\ WhatsApp\ 2023-11-29\ a\ las\ 22.20.29_29e9c196.jpg');
+    background-repeat: no-repeat;
 }
 
 #codigoQR {
-    max-width: 80%; 
-    height: auto;
     padding: 50px;
-    background-color: #fff;
     padding-left: 40ch;
 }
 
@@ -20,5 +20,5 @@ body {
     text-align: center;
     font-weight: 700;
     font-size: 4ch;
-    /*ssssssss*/
+    color: chartreuse;
 }
